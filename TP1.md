@@ -59,7 +59,7 @@ Avec la commande ping :**
 ```PC2> ping 10.1.1.1```
 ```
 84 bytes from 10.1.1.1 icmp_seq=1 ttl=64 time=0.185 ms
-84 bytes from 10.1.1.1 icmp_seq=2 ttl=64 time=0.165 ms``
+84 bytes from 10.1.1.1 icmp_seq=2 ttl=64 time=0.165 ms
 84 bytes from 10.1.1.1 icmp_seq=3 ttl=64 time=0.367 ms
 84 bytes from 10.1.1.1 icmp_seq=4 ttl=64 time=0.606 ms
 84 bytes from 10.1.1.1 icmp_seq=5 ttl=64 time=0.453 ms
